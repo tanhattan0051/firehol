@@ -1,6 +1,8 @@
 FireHOL
 =======
 
+https://github.com/firehol/firehol/wiki
+
 http://firehol.org/
 
     FireHOL, an iptables stateful packet filtering firewall for humans!
